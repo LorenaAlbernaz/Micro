@@ -1,0 +1,39 @@
+# Micro
+
+Data: 08/03/2017
+
+1. O que são sistemas embarcados?
+  São sistemas comnputacionais independêntes encarregados de executar uma função pré determinada.
+
+2. O que são sistemas microprocesssados?
+  Um sistema microprocessado, geralmente é um computador encapsulado dedicado ao sistema no qual ele controla.
+
+3. Apresente aplicações de sistemas embarcados:
+	(a) Para a indústria automotiva;
+   ex: airbags, freios
+  
+	(b) Para eletrodomésticos;
+    ex: smarts tvs, câmeras fotográficas  
+  
+	(c) Para automação industrial.
+    ex: acionadores elétricos, robótica industrial
+  
+ 
+4. Cite arquiteturas possíveis e as diferenças entre elas.
+  *Arquitetura de Von Neumann
+  Uma unidade central de processamento recebe informações através de uma unidade de entrada de dados,
+processa estas informações segundo as especificações de um programa armazenado em uma unidade de
+memória, e devolve os resultados através de uma unidade de saída de dados
+  
+  * Arquitetura de Software e Hardware
+Hardware é o conjunto de dispositivos elétricos/eletrônicos que englobam a CPU, a
+memória e os dispositivos de entrada/saída de um sistema de computador. O hardware é
+composto de objetos tangíveis (circuitos integrados, placas de circuito impresso, cabos, fontes de
+alimentação, memórias, impressoras, terminais de vídeo e teclados).
+O software, ao contrário, consiste em algoritmos (instruções detalhadas que dizem como
+fazer algo) e suas representações para o computador ou seja, os programas.
+Qualquer instrução efetuada pelo software pode ser implementada diretamente em hardware e qualquer
+operação executada pelo hardware pode também ser simulada pelo software
+
+5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
+ Um microcontrolador apresenta um consumo de energia maior do que o consumo de energia do MSP430
