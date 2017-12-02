@@ -1,0 +1,16 @@
+Aluna: Lorena Albernaz 14/0025715
+Aula 2
+
+1) O barramento de dados refere às portas I/O e o caminho de dados. Enquanto os endereços definem o local na memória para os dados.
+
+2) A memória RAM é uma memória volátil que pode ser regravada várias vezes e os dados são mantidos enquanto houver alimentação do sistema. Já a memória ROM grava os dados apenas uma vez e esses dados ficam disponíveis apenas para leitura.
+
+3a) A variável é armazenada na memória RAM pois seu acesso é mais rápido.
+b) Para que o programa possa ser executado novamente,deve ser armazenado em um memória não volátil (ROM).
+
+4) Na arquitetura  Harvard os caminhos de dados e de instruções são distintos o que o torna mais rápida pois os componentes estão em lugares distintos porém, a torna mais complexa. Já na arquitetura Von Neumann as instruções e os dados percorrem o mesmo barramento a tornando mais lenta.
+
+5a) 0xCDAB5180 
+ b) 0X8051ABCD
+
+6) Cada variável utilizará dois registradores de 16 bits
